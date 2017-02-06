@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SYPasswordView.h
 //  PasswordDemo
 //
 //  Created by aDu on 2017/2/6.
@@ -8,8 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface SYPasswordView : UIView<UITextFieldDelegate>
 
+/**
+ *  清除密码
+ */
+- (void)clearUpPassword;
 
 @end
-
