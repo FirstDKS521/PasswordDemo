@@ -154,4 +154,4 @@
 ```
 
 写了一个demo，是经过简单的封装的，有兴趣的可以看看！
-[简书地址](http://www.jianshu.com/p/7059c017ad0a
+[简书地址](http://www.jianshu.com/p/7059c017ad0a)
